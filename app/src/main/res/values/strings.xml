@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MotoXperience</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="versiones">Version 1.0</string>
+</resources>
